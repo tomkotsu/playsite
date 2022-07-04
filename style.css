@@ -1,0 +1,11 @@
+@font-face {
+    font-family:degular-text;
+    src:url(https://use.typekit.net/af/3e629a/00000000000000007735c85a/30/l?subset_id=2&fvd=n2&v=3) format("woff2"),
+    url(https://use.typekit.net/af/3e629a/00000000000000007735c85a/30/d?subset_id=2&fvd=n2&v=3) format("woff")
+}
+
+body {
+    background-color: #fefff2;
+    color: #ff013f;
+    font-family: degular-text;
+}
